@@ -10,6 +10,7 @@ Following releases are included:
  * Release 79 dated 2022.02
  * Release 80 dated 2022.05
  * Release 81 dated 2022.08
+ * Release 82 dated 2022.11
 
  
 
